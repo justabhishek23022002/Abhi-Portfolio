@@ -99,4 +99,4 @@ Advanced coursework in deep learning, generative AI, and large language models (
 
 # --- Footer ---
 st.markdown("---")
-st.caption("Portfolio built with ❤️ using Streamlit.")
+#st.caption()
