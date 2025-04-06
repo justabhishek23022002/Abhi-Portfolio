@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 # --- Load Image ---
-image = Image.open(r"C:\Users\dubey\OneDrive\Desktop\Mark sheet\Photo\Abhi .jpg")
+image = Image.open("Abhi .jpg")
 
 # --- Sidebar ---
 st.sidebar.title("📬 Contact Me")
